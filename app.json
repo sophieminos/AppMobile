@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "AppMob_Amis",
+    "slug": "AppMob_Amis",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "AppMob_Amis"
+}
